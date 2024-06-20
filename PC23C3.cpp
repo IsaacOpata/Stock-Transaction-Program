@@ -1,5 +1,4 @@
 //Isaac Opata
-//June 6, 2024
 //Stock Transaction Program
 
 #include <iostream>
