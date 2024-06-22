@@ -1,4 +1,4 @@
-#Programming Challemge Stock-Transaction-Program
+#Programming-Challenge-Stock-Transaction-Program
 
 Last month Joe purchased some stock in Acme Software. Here are the details
 -The number of shres that Joes purchased was 1000
